@@ -1,0 +1,26 @@
+services:
+  apache:
+    image: php:8.2-apache
+    container_name: apache_lab
+    ports:
+      - "81:80"
+      - "8443:443"
+    volumes:
+      # Configuraciones
+      - ./config/sites-available:/etc/apache2/sites-available
+      - ./config/ports-81.conf:/etc/apache2/ports.conf
+      # Certificados SSL
+      - ./config/ssl:/etc/apache2/ssl
+      # Contenidos
+      - ./www/prueba:/var/www/prueba
+      - ./www/host1:/var/www/host1
+      - ./www/host2:/var/www/host2
+      - ./www/alvaroeugenio:/var/www/alvaroeugenio
+      # Directorios de usuario
+      - ./userdirs:/home
+      # Logs
+      - ./logs:/var/log/apache2
+    command: >
+      bash -c "a2enmod rewrite userdir alias dir ssl && \
+              a2ensite 00-default.conf 10-www.alvaroeugenio.com.conf 20-host1.alvaroeugenio.com.conf 21-host2.alvaroeugenio.com.conf 30-alvaroeugenio-https.conf 31-error.conf && \
+              apache2ctl -D FOREGROUND"

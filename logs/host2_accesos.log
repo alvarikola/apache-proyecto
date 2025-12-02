@@ -1,0 +1,5 @@
+172.19.0.1 - - [19/Nov/2025:12:29:38 +0000] "GET /index.html HTTP/1.1" 404 424 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+172.19.0.1 - - [19/Nov/2025:12:29:38 +0000] "GET /favicon.ico HTTP/1.1" 404 423 "http://host2.alvaroeugenio.com:81/index.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+172.19.0.1 - - [19/Nov/2025:12:29:49 +0000] "GET /index.html HTTP/1.1" 404 424 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+172.19.0.1 - - [19/Nov/2025:12:29:49 +0000] "GET /index.html HTTP/1.1" 404 423 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+172.19.0.1 - - [19/Nov/2025:12:52:44 +0000] "GET / HTTP/1.1" 200 525 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"

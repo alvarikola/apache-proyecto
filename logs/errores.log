@@ -1,0 +1,8 @@
+[Wed Nov 19 12:56:29.476272 2025] [authz_core:error] [pid 31:tid 31] [client 172.19.0.1:47940] AH01630: client denied by server configuration: /home/pedro
+[Wed Nov 19 12:58:48.378665 2025] [authz_core:error] [pid 33:tid 33] [client 172.19.0.1:40574] AH01630: client denied by server configuration: /home/pedro
+[Wed Nov 19 13:00:19.276801 2025] [authz_core:error] [pid 30:tid 30] [client 172.19.0.1:60188] AH01630: client denied by server configuration: /home/pedro
+[Wed Nov 19 13:31:01.190476 2025] [authz_core:error] [pid 29:tid 29] [client 172.19.0.1:37308] AH01630: client denied by server configuration: /var/www/prueba/descargas/
+[Wed Nov 19 13:34:34.242561 2025] [core:alert] [pid 29:tid 29] [client 172.19.0.1:55196] /var/www/prueba/privado/.htaccess: Invalid command 'EOF', perhaps misspelled or defined by a module not included in the server configuration
+[Wed Nov 19 13:34:47.937445 2025] [core:alert] [pid 30:tid 30] [client 172.19.0.1:52132] /var/www/prueba/privado/.htaccess: Invalid command 'EOF', perhaps misspelled or defined by a module not included in the server configuration
+[Wed Nov 19 13:48:14.062980 2025] [authz_core:error] [pid 30:tid 30] [client 192.168.216.110:48732] AH01630: client denied by server configuration: /var/www/prueba/descargas/
+[Wed Nov 19 13:51:04.788677 2025] [authz_core:error] [pid 29:tid 29] [client 192.168.216.2:39088] AH01630: client denied by server configuration: /var/www/prueba/descargas/

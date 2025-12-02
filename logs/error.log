@@ -1,0 +1,238 @@
+[Tue Nov 18 13:28:12.421963 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Tue Nov 18 13:28:12.421999 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 18 13:29:50.486340 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Nov 18 13:29:51.821325 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Tue Nov 18 13:29:51.821350 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 18 13:32:34.629312 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Nov 18 13:32:35.951970 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Tue Nov 18 13:32:35.951997 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 18 13:53:04.158851 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Nov 18 13:53:05.501523 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Tue Nov 18 13:53:05.501552 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 18 14:01:24.621330 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 12:12:13.002796 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 12:12:13.002945 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 12:22:15.823913 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 12:22:17.126894 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 12:22:17.126927 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 12:23:52.207415 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 12:23:53.530063 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 12:23:53.530089 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 12:29:43.996527 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 12:29:47.337922 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 12:29:47.337948 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 12:37:40.234959 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 12:48:47.904254 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 12:48:47.904284 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 12:54:01.069601 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 12:54:02.391138 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 12:54:02.391174 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 12:56:04.812910 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 12:56:06.121402 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 12:56:06.121427 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:06:14.187131 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:06:15.520924 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:06:15.520949 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:11:13.010213 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:11:55.869380 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:11:55.869409 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:12:27.624824 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:12:28.964151 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:12:28.964191 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:16:03.375556 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:17:23.011170 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:17:23.011196 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:20:35.998819 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:20:37.327499 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:20:37.327531 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:21:18.823501 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:21:22.158372 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:21:22.158396 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:22:39.694478 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:22:41.032074 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:22:41.032101 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:23:02.743163 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:23:04.063040 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:23:04.063070 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:30:52.772236 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:30:54.100484 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:30:54.100509 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:31:11.084175 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:31:12.431490 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:31:12.431537 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:34:21.770554 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:34:23.104679 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:34:23.104707 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:40:05.152027 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:40:06.500062 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:40:06.500088 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:47:51.275355 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:47:52.609492 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:47:52.609541 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:50:57.363132 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 19 13:50:58.689333 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 configured -- resuming normal operations
+[Wed Nov 19 13:50:58.689358 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 19 13:59:25.942787 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Nov 25 13:29:05.220865 2025] [ssl:warn] [pid 56:tid 56] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 25 13:29:05.221304 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/alvaroeugenio] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 25 13:29:05.257756 2025] [ssl:warn] [pid 56:tid 56] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 25 13:29:05.257777 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 25 13:29:05.261471 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Tue Nov 25 13:29:05.261484 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Nov 25 13:36:15.054256 2025] [ssl:warn] [pid 16:tid 16] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 25 13:36:15.054302 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/alvaroeugenio] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 25 13:36:15.071245 2025] [ssl:warn] [pid 16:tid 16] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 25 13:36:15.071262 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 25 13:36:15.071710 2025] [core:warn] [pid 16:tid 16] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 25 13:36:15.074048 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Tue Nov 25 13:36:15.074061 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Nov 25 13:41:07.657444 2025] [ssl:warn] [pid 56:tid 56] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 25 13:41:07.657507 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/alvaroeugenio] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 25 13:41:07.675103 2025] [ssl:warn] [pid 56:tid 56] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 25 13:41:07.675136 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 25 13:41:07.679262 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Tue Nov 25 13:41:07.679281 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 09:51:55.575393 2025] [ssl:warn] [pid 16:tid 16] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Nov 26 09:51:55.576080 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/alvaroeugenio] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 09:51:55.612977 2025] [ssl:warn] [pid 16:tid 16] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Nov 26 09:51:55.612998 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 09:51:55.613435 2025] [core:warn] [pid 16:tid 16] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 09:51:55.615369 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 09:51:55.615381 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 10:09:39.424193 2025] [ssl:warn] [pid 16:tid 16] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Nov 26 10:09:39.424250 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/alvaroeugenio] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 10:09:39.441138 2025] [ssl:warn] [pid 16:tid 16] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Nov 26 10:09:39.441155 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 10:09:39.441651 2025] [core:warn] [pid 16:tid 16] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 10:09:39.443657 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 10:09:39.443673 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 10:39:03.865991 2025] [ssl:warn] [pid 56:tid 56] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Nov 26 10:39:03.866056 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/alvaroeugenio] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 10:39:03.885154 2025] [ssl:warn] [pid 56:tid 56] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Nov 26 10:39:03.885176 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 10:39:03.888772 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 10:39:03.888789 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 11:19:10.285461 2025] [ssl:warn] [pid 56:tid 56] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Nov 26 11:19:10.285525 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/alvaroeugenio] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 11:19:10.303091 2025] [ssl:warn] [pid 56:tid 56] AH01906: default-https:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Nov 26 11:19:10.303132 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 11:19:10.306773 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 11:19:10.306785 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 11:41:08.319198 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 11:41:08.337358 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 11:41:08.341476 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 11:41:08.341496 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 11:50:45.871598 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 11:50:45.890113 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 11:50:45.890610 2025] [core:warn] [pid 16:tid 16] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 11:50:45.892802 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 11:50:45.892818 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 11:53:41.819956 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 11:53:41.837308 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 11:53:41.837784 2025] [core:warn] [pid 16:tid 16] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 11:53:41.839962 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 11:53:41.839978 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 12:12:02.203465 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 12:12:02.221657 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 12:12:02.225476 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 12:12:02.225489 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 12:32:10.211655 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 12:32:10.229330 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 12:32:10.229785 2025] [core:warn] [pid 16:tid 16] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 12:32:10.232023 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 12:32:10.232037 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 12:35:57.468522 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 12:35:57.485413 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 12:35:57.485897 2025] [core:warn] [pid 16:tid 16] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 12:35:57.488065 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 12:35:57.488076 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 12:47:05.244986 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 12:47:05.262294 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 12:47:05.262758 2025] [core:warn] [pid 16:tid 16] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 12:47:05.264914 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 12:47:05.264925 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 12:57:42.175338 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00171: Graceful restart requested, doing restart
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 26 12:57:42.187111 2025] [ssl:warn] [pid 16:tid 16] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 12:57:42.187848 2025] [mpm_prefork:notice] [pid 16:tid 16] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 12:57:42.187862 2025] [core:notice] [pid 16:tid 16] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Nov 26 13:42:09.052041 2025] [ssl:warn] [pid 74:tid 74] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 13:42:09.088413 2025] [ssl:warn] [pid 75:tid 75] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 13:42:09.092212 2025] [mpm_prefork:notice] [pid 75:tid 75] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 13:42:09.092227 2025] [core:notice] [pid 75:tid 75] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 26 13:46:55.307618 2025] [ssl:warn] [pid 32:tid 32] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 13:46:55.325889 2025] [ssl:warn] [pid 33:tid 33] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 13:46:55.326381 2025] [core:warn] [pid 33:tid 33] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 13:46:55.328419 2025] [mpm_prefork:notice] [pid 33:tid 33] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 13:46:55.328432 2025] [core:notice] [pid 33:tid 33] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 26 13:50:04.347928 2025] [ssl:warn] [pid 32:tid 32] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 13:50:04.365791 2025] [ssl:warn] [pid 33:tid 33] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 13:50:04.366287 2025] [core:warn] [pid 33:tid 33] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 13:50:04.368214 2025] [mpm_prefork:notice] [pid 33:tid 33] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 13:50:04.368226 2025] [core:notice] [pid 33:tid 33] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 26 13:59:04.873179 2025] [ssl:warn] [pid 32:tid 32] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 13:59:04.892261 2025] [ssl:warn] [pid 33:tid 33] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 26 13:59:04.892772 2025] [core:warn] [pid 33:tid 33] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 26 13:59:04.894774 2025] [mpm_prefork:notice] [pid 33:tid 33] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Nov 26 13:59:04.894791 2025] [core:notice] [pid 33:tid 33] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Dec 02 12:39:33.573298 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/alvaroeugenio] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 02 12:39:33.610638 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 02 12:39:33.614423 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Tue Dec 02 12:39:33.614436 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Dec 02 12:46:06.454267 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 02 12:46:06.471592 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 02 12:46:06.475147 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Tue Dec 02 12:46:06.475161 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'

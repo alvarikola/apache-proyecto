@@ -1,0 +1,13 @@
+<Directory /var/www/prueba/descargas>
+ Options +Indexes +FollowSymLinks
+ Require all granted
+</Directory>
+
+Directory /var/www/prueba/descargas>
+ Options +Indexes +FollowSymLinks
+ AllowOverride All
+ <RequireAll>
+ Require all granted
+ Require not ip 127.0.0.1
+ </RequireAll>
+ </Directory>
