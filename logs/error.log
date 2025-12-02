@@ -236,3 +236,10 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 [Tue Dec 02 12:46:06.471592 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
 [Tue Dec 02 12:46:06.475147 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
 [Tue Dec 02 12:46:06.475161 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Dec 02 12:55:52.102734 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00173: SIGHUP received.  Attempting to restart
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00112: Warning: DocumentRoot [/var/www/error] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 02 12:55:52.112312 2025] [ssl:warn] [pid 56:tid 56] AH01909: default-https:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 02 12:55:52.114768 2025] [mpm_prefork:notice] [pid 56:tid 56] AH00163: Apache/2.4.65 (Debian) PHP/8.2.29 OpenSSL/3.5.1 configured -- resuming normal operations
+[Tue Dec 02 12:55:52.114783 2025] [core:notice] [pid 56:tid 56] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
